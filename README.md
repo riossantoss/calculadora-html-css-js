@@ -15,3 +15,7 @@
 - Performs the four arithmetic operations: addition, subtraction, division and multiplication;
 - Functions: clear all (cleans the display) and clear (deletes last digit only).
 - Accepts operations with integers and floats.
+
+Exemplo da interface da calculadora:
+
+![Calculadora](./assets/calculadora.png)
